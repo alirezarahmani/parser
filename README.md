@@ -8,3 +8,7 @@
 ## How to run:
 - composer install 
 - php -f ./src/index.php
+
+## Sample Output:
+
+``  {  eventname: = purchase  and  eventdata.detail.cpu.detail: { type = 64bit }    and  eventdata.category: { digital = phone }    or  eventdata: { price < 600000 }    } ``
